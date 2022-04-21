@@ -1,13 +1,14 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 / Firebase Firestore 9 Starter
 
-We recommend to look at the [documentation](https://v3.nuxtjs.org).
+Nuxt3 [documentation](https://v3.nuxtjs.org).
+Firebase Firestore [documentation](https://firebase.google.com/docs/web/learn-more?authuser=0&hl=en#modular-version).
 
 ## Setup
 
 Make sure to install the dependencies
 
 ```bash
-yarn install
+npm install
 ```
 
 ## Development
@@ -15,7 +16,7 @@ yarn install
 Start the development server on http://localhost:3000
 
 ```bash
-yarn dev
+npm run dev
 ```
 
 ## Production
@@ -23,7 +24,7 @@ yarn dev
 Build the application for production:
 
 ```bash
-yarn build
+npm run build
 ```
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
